@@ -1,0 +1,34 @@
+# Libraries for key presses, mouse control, and automation
+pyautogui==0.9.53
+pynput==1.7.6
+
+# Libraries for data handling, manipulation, and saving stats
+pandas==1.5.3
+numpy==1.24.3
+
+# Libraries for AI model building and training
+scikit-learn==1.2.2
+tensorflow==2.11.0  # Optional, only if using deep learning
+
+# Libraries for logging and debugging
+loguru==0.6.0  # Advanced logging library (optional)
+
+# Libraries for visualization and reporting
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Libraries for working with images and screenshots
+opencv-python==4.7.0.72
+Pillow==9.4.0
+
+# Libraries for natural language processing (if needed for reporting)
+nltk==3.8.1
+
+# Libraries for reinforcement learning (optional)
+stable-baselines3==1.8.0  # If you want to integrate RL later
+
+# Libraries for web scraping or interacting with external APIs (optional)
+beautifulsoup4==4.12.0  # If scraping game results, etc.
+
+gymnasium==0.28.0
+stable-baselines3==1.8.0
